@@ -38,7 +38,7 @@ The first approach involved using the Johnny GUI (a graphical frontend for John 
 4. **Result:** The password was successfully cracked.
 
 *Screenshot of the successful Johnny GUI crack:*
-![Johnny GUI Crack Success](images/01_johnny_gui_success.png)
+![Johnny GUI Crack Success](Images/01_johnny_gui_success.png)
 
 ---
 
@@ -49,13 +49,13 @@ To validate the process and remove the need for local installations, the exact s
 Using the Networkwalks Hash Calculator, the hash was extracted directly in the browser (no files were uploaded to a server).
 
 *Screenshot of the Hash Calculator Interface:*
-![Networkwalks Hash Calculator](images/02_networkwalks_hash_calc.png)
+![Networkwalks Hash Calculator](Images/02_networkwalks_hash_calc.png)
 
 #### Step 2.2: Executing the Dictionary Attack
 The extracted hash was pasted into the Networkwalks Password Cracker. The tool runs the dictionary attack in real-time, logging the attempted words.
 
 *Screenshot of the Dictionary Attack in progress and successful crack:*
-![Networkwalks Password Cracker](images/03_networkwalks_password_cracker.png)
+![Networkwalks Password Cracker](Images/03_networkwalks_password_cracker.png)
 
 ---
 
